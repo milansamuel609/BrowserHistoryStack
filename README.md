@@ -36,3 +36,7 @@ Is the history empty or not: false
 - Demonstrates basic stack operations: push(), pop(), peek(), search(), and empty().
 
 - The search() method returns the 1-based position from the top of the stack if found; otherwise, it returns -1.
+
+## Developed By: 
+
+Milan P Samuel
